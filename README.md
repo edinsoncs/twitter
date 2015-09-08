@@ -1,1 +1,2 @@
 # notTwitter
+# Utilizando Openshift
